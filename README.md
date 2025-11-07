@@ -1,10 +1,10 @@
 <img width="940" height="447" alt="image" src="https://github.com/user-attachments/assets/c559b49a-1fc9-44b3-bac4-822ed14183e5" />
 
-1. 1. Giới thiệu
+1. Giới thiệu
    Hệ thống Quản lý mục tiêu học tập cá nhân được xây dựng nhằm hỗ trợ sinh viên trong việc lập kế hoạch, đặt mục tiêu và theo dõi tiến độ học tập của bản thân. Thay vì ghi chép và quản lý thủ công bằng sổ tay hay bảng tính rời rạc, hệ thống mang đến một giải pháp tập trung, hiện đại và dễ sử dụng. Người học có thể chủ động theo dõi các môn học, lịch học, thống kê kết quả và đánh giá mức độ hoàn thành mục tiêu, từ đó nâng cao hiệu quả học tập và phát triển kỹ năng tự quản lý bản thân.
    <img width="946" height="473" alt="image" src="https://github.com/user-attachments/assets/ed779f72-6ca8-41e3-9fc6-26ebc88ef703" />
 
-   3. Hình ảnh các chức năng
+3. Hình ảnh các chức năng
       ### Trang dashboard
       <img width="2480" height="1303" alt="image" src="https://github.com/user-attachments/assets/e6f20fd1-3987-471b-a465-615393616908" />
       ### Trang quản lí môn học
