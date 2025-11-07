@@ -6,8 +6,8 @@ Thay vì ghi chú thủ công hoặc quản lý rời rạc trên giấy tờ, h
 🔧 2. Các công nghệ được sử dụng
 <img width="1347" height="626" alt="image" src="https://github.com/user-attachments/assets/a4ef9cd0-b043-49fd-8daf-bd46d272adee" />
 🚀 3. Hình ảnh các chức năng
-### Trang đăng nhập
 
+### Trang đăng nhập
 <img width="2491" height="1308" alt="image" src="https://github.com/user-attachments/assets/81511203-24be-4aaf-affc-99cf6abb05bc" />
 ### Trang dashboard
 <img width="2493" height="1313" alt="image" src="https://github.com/user-attachments/assets/d9ba2c9c-df50-4ec8-b529-06bca41b1be1" />
@@ -22,6 +22,7 @@ Thay vì ghi chú thủ công hoặc quản lý rời rạc trên giấy tờ, h
 ### Trang thống kê 
 <img width="2490" height="1310" alt="image" src="https://github.com/user-attachments/assets/440554ca-12d8-4b07-9461-3176c6ccb7c3" />
 ## ⚙️ 4. Cài đặt
+
 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
 
 Tải và cài đặt XAMPP
