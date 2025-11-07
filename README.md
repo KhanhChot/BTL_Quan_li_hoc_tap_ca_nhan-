@@ -3,8 +3,11 @@
 Hệ thống Quản lý Mục tiêu Học tập Cá nhân được xây dựng nhằm giúp sinh viên lập kế hoạch, theo dõi tiến độ và đánh giá kết quả học tập của bản thân trong suốt quá trình học đại học.
 Ứng dụng giúp người dùng đặt ra mục tiêu ngắn hạn và dài hạn, quản lý các môn học, theo dõi tiến trình hoàn thành, nhận thông báo nhắc nhở và thống kê kết quả học tập một cách trực quan, dễ hiểu.
 Thay vì ghi chú thủ công hoặc quản lý rời rạc trên giấy tờ, hệ thống mang đến một giải pháp quản lý thông minh, hiện đại và dễ sử dụng, hỗ trợ sinh viên nâng cao năng suất học tập và tự phát triển bản thân.
+
 🔧 2. Các công nghệ được sử dụng
+
 <img width="1347" height="626" alt="image" src="https://github.com/user-attachments/assets/a4ef9cd0-b043-49fd-8daf-bd46d272adee" />
+
 🚀 3. Hình ảnh các chức năng
 
 ### Trang đăng nhập
